@@ -12,10 +12,6 @@ const randomColor = require("randomcolor");
 
 const port = 3349
 
-
-
-
-
 const server = http.createServer((req, res) => {
 
 
